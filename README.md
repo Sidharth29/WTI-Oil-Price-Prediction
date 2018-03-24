@@ -7,8 +7,8 @@ Here we aim to build a model to predict the WTI oil prices with a fair deal of a
 WTI Oil Prices studied monthly from January 1986 to July 2017 (https://www.eia.gov/)
 
 ## Predictors considered
-1.United States Petroleum Reserves:
-2.Treasury Note Rate
-3.S&P 500 Index
-4.OPEC Crude Oil Production
-5.GDP (US)
+1. United States Petroleum Reserves
+2. Treasury Note Rate
+3. S&P 500 Index
+4. OPEC Crude Oil Production
+5. GDP (US)
