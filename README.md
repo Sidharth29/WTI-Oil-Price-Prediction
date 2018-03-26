@@ -15,4 +15,5 @@ WTI Oil Prices studied monthly from January 1986 to July 2017 (https://www.eia.g
 
 ## Visualization
 To understand the components of the response we decompose it and visualize it as a time series variable
-![alt text](WTI-Oil-Price-Prediction/Images/y_decomp.PNG)
+
+<img width="556" alt="y_decomp" src="https://user-images.githubusercontent.com/32235608/37925149-babcc510-30e8-11e8-86b2-9136974c35aa.PNG">
