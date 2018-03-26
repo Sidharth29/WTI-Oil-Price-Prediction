@@ -12,3 +12,7 @@ WTI Oil Prices studied monthly from January 1986 to July 2017 (https://www.eia.g
 3. S&P 500 Index
 4. OPEC Crude Oil Production
 5. GDP (US)
+
+## Visualization
+To understand the components of the response we decompose it and visualize it as a time series variable
+![alt text](WTI-Oil-Price-Prediction/Images/y_decomp.PNG)
